@@ -7,9 +7,9 @@ The maximum input is limited to 8 disks, as it's simulated in a 32-bit ARM CPU, 
 mov r0, #8
 ```
 
-The code can be tested in a ARM cpu simulator like [cpulator](https://cpulator.01xz.net/?sys=arm)
+The code can be tested in an ARM CPU simulator like [cpulator](https://cpulator.01xz.net/?sys=arm)
 
-#### Authors
+## Authors
 Sebastián Valdivia
 
 Diego Herrera
